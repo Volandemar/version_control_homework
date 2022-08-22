@@ -6,6 +6,6 @@ public class Main {
         SalesManager salesManaged = new SalesManager(sales);
 
         System.out.println(salesManaged.max());
-
+        System.out.println(salesManaged.averageSum());
     }
 }
